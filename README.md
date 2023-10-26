@@ -1,0 +1,2 @@
+# NORIGO-airdrop
+NORIGO airdrop
